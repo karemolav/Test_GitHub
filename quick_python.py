@@ -1,0 +1,5 @@
+FirstName = input ("What is your name? ")
+FirstName2 = input ("What is your name? ")
+Time = input ("How many months have you been coding? ")
+Time2 = input ("How many months have you been coding? ")
+print (f" I am {FirstName} and my neighbor is {FirstName2} ")
